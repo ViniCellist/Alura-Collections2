@@ -1,0 +1,15 @@
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\bin\Debug\net8.0\SortedList.exe
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\bin\Debug\net8.0\SortedList.deps.json
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\bin\Debug\net8.0\SortedList.runtimeconfig.json
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\bin\Debug\net8.0\SortedList.dll
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\bin\Debug\net8.0\SortedList.pdb
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\obj\Debug\net8.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\obj\Debug\net8.0\SortedList.AssemblyInfoInputs.cache
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\obj\Debug\net8.0\SortedList.AssemblyInfo.cs
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\obj\Debug\net8.0\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\obj\Debug\net8.0\SortedList.sourcelink.json
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\obj\Debug\net8.0\SortedList.dll
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\obj\Debug\net8.0\refint\SortedList.dll
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\obj\Debug\net8.0\SortedList.pdb
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\obj\Debug\net8.0\SortedList.genruntimeconfig.cache
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\Collections2\obj\Debug\net8.0\ref\SortedList.dll
