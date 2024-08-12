@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList", "SortedList.csproj", "{A2C65865-892A-4A7E-97D7-5C0BD59DB64D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSet", "..\SortedSet\SortedSet.csproj", "{77FCEFA4-FA7E-49DC-8194-FC9F7E4AAC41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A2C65865-892A-4A7E-97D7-5C0BD59DB64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2C65865-892A-4A7E-97D7-5C0BD59DB64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2C65865-892A-4A7E-97D7-5C0BD59DB64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FCEFA4-FA7E-49DC-8194-FC9F7E4AAC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FCEFA4-FA7E-49DC-8194-FC9F7E4AAC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FCEFA4-FA7E-49DC-8194-FC9F7E4AAC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FCEFA4-FA7E-49DC-8194-FC9F7E4AAC41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
