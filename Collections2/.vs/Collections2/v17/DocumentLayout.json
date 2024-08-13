@@ -3,10 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections2\\Collections2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77FCEFA4-FA7E-49DC-8194-FC9F7E4AAC41}|..\\SortedSet\\SortedSet.csproj|c:\\users\\life connection\\documents\\github\\alura-collections2\\sortedset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77FCEFA4-FA7E-49DC-8194-FC9F7E4AAC41}|..\\SortedSet\\SortedSet.csproj|c:\\users\\life connection\\documents\\github\\alura-collections2\\sortedset\\comparadorminisculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07DB2333-1347-4775-9326-C27A6E12E5E7}|..\\A2._2_JahhedArrays\\A2._2_JahhedArrays.csproj|c:\\users\\life connection\\documents\\github\\alura-collections2\\a2._2_jahhedarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,28 +21,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ComparadorMinisculo.cs",
-              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections2\\SortedSet\\ComparadorMinisculo.cs",
-              "RelativeDocumentMoniker": "..\\SortedSet\\ComparadorMinisculo.cs",
-              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections2\\SortedSet\\ComparadorMinisculo.cs",
-              "RelativeToolTip": "..\\SortedSet\\ComparadorMinisculo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T20:23:43.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections2\\SortedSet\\Program.cs",
-              "RelativeDocumentMoniker": "..\\SortedSet\\Program.cs",
-              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections2\\SortedSet\\Program.cs",
-              "RelativeToolTip": "..\\SortedSet\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections2\\A2._2_JahhedArrays\\Program.cs",
+              "RelativeDocumentMoniker": "..\\A2._2_JahhedArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections2\\A2._2_JahhedArrays\\Program.cs",
+              "RelativeToolTip": "..\\A2._2_JahhedArrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T20:17:35.586Z",
+              "WhenOpened": "2024-08-13T19:28:09.185Z",
               "EditorCaption": ""
             }
           ]
