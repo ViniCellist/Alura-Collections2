@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("A2._2_JahhedArrays")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("A3._1_ConsultandoCollections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+464d2eaacc84b58b7d05f2969ff5e35544529849")]
-[assembly: System.Reflection.AssemblyProductAttribute("A2._2_JahhedArrays")]
-[assembly: System.Reflection.AssemblyTitleAttribute("A2._2_JahhedArrays")]
+[assembly: System.Reflection.AssemblyProductAttribute("A3._1_ConsultandoCollections")]
+[assembly: System.Reflection.AssemblyTitleAttribute("A3._1_ConsultandoCollections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

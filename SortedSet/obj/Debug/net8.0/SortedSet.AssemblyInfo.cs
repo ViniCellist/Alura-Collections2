@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SortedSet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f798c0b2d4c93c3f59a1bf24194197ef44374e60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+464d2eaacc84b58b7d05f2969ff5e35544529849")]
 [assembly: System.Reflection.AssemblyProductAttribute("SortedSet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SortedSet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
