@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedList", "SortedList.cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedSet", "..\SortedSet\SortedSet.csproj", "{77FCEFA4-FA7E-49DC-8194-FC9F7E4AAC41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2._1_ArraysMultidimensionais", "..\A2._1_ArraysMultidimensionais\A2._1_ArraysMultidimensionais.csproj", "{0B37DF39-80E0-4DD1-BBFE-E67485AAC75A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A2._1_ArraysMultidimensionais", "..\A2._1_ArraysMultidimensionais\A2._1_ArraysMultidimensionais.csproj", "{0B37DF39-80E0-4DD1-BBFE-E67485AAC75A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2._2_JahhedArrays", "..\A2._2_JahhedArrays\A2._2_JahhedArrays.csproj", "{07DB2333-1347-4775-9326-C27A6E12E5E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A2._2_JahhedArrays", "..\A2._2_JahhedArrays\A2._2_JahhedArrays.csproj", "{07DB2333-1347-4775-9326-C27A6E12E5E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A3._1_ConsultandoCollections", "..\A3._1_ConsultandoCollections\A3._1_ConsultandoCollections.csproj", "{5CE291D8-D5B5-4493-832C-7432CA9ECCD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{07DB2333-1347-4775-9326-C27A6E12E5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07DB2333-1347-4775-9326-C27A6E12E5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07DB2333-1347-4775-9326-C27A6E12E5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE291D8-D5B5-4493-832C-7432CA9ECCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE291D8-D5B5-4493-832C-7432CA9ECCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE291D8-D5B5-4493-832C-7432CA9ECCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE291D8-D5B5-4493-832C-7432CA9ECCD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
