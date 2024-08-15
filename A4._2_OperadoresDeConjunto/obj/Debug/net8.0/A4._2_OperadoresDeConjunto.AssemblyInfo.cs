@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SortedSet")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("A4._2_OperadoresDeConjunto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+793df382adf30473ee44da2950c24acb210713f7")]
-[assembly: System.Reflection.AssemblyProductAttribute("SortedSet")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SortedSet")]
+[assembly: System.Reflection.AssemblyProductAttribute("A4._2_OperadoresDeConjunto")]
+[assembly: System.Reflection.AssemblyTitleAttribute("A4._2_OperadoresDeConjunto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

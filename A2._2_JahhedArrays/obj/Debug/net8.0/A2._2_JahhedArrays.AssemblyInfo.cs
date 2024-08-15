@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A2._2_JahhedArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ac522cd71b014f4683d707fb9b1203709473055")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+793df382adf30473ee44da2950c24acb210713f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("A2._2_JahhedArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A2._2_JahhedArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
