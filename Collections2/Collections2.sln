@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A3._1_ConsultandoCollection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A4._1_OutrosOperadores", "..\A4._1_OutrosOperadores\A4._1_OutrosOperadores.csproj", "{36C4955B-B857-4DC2-86F2-8312D91EBA47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A4._2_OperadoresDeConjunto", "..\A4._2_OperadoresDeConjunto\A4._2_OperadoresDeConjunto.csproj", "{8FE3DE9D-72C3-4900-BA0D-2DD7DFE00467}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{36C4955B-B857-4DC2-86F2-8312D91EBA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36C4955B-B857-4DC2-86F2-8312D91EBA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36C4955B-B857-4DC2-86F2-8312D91EBA47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE3DE9D-72C3-4900-BA0D-2DD7DFE00467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE3DE9D-72C3-4900-BA0D-2DD7DFE00467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE3DE9D-72C3-4900-BA0D-2DD7DFE00467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE3DE9D-72C3-4900-BA0D-2DD7DFE00467}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

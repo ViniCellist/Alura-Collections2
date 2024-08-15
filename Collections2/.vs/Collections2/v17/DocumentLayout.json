@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections2\\Collections2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36C4955B-B857-4DC2-86F2-8312D91EBA47}|..\\A4._1_OutrosOperadores\\A4._1_OutrosOperadores.csproj|c:\\users\\life connection\\documents\\github\\alura-collections2\\a4._1_outrosoperadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FE3DE9D-72C3-4900-BA0D-2DD7DFE00467}|..\\A4._2_OperadoresDeConjunto\\A4._2_OperadoresDeConjunto.csproj|c:\\users\\life connection\\documents\\github\\alura-collections2\\a4._2_operadoresdeconjunto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,13 +23,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections2\\A4._1_OutrosOperadores\\Program.cs",
-              "RelativeDocumentMoniker": "..\\A4._1_OutrosOperadores\\Program.cs",
-              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections2\\A4._1_OutrosOperadores\\Program.cs",
-              "RelativeToolTip": "..\\A4._1_OutrosOperadores\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAkwDsAAABGAAAA",
+              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections2\\A4._2_OperadoresDeConjunto\\Program.cs",
+              "RelativeDocumentMoniker": "..\\A4._2_OperadoresDeConjunto\\Program.cs",
+              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections2\\A4._2_OperadoresDeConjunto\\Program.cs",
+              "RelativeToolTip": "..\\A4._2_OperadoresDeConjunto\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T16:33:27.639Z",
+              "WhenOpened": "2024-08-15T16:46:19.03Z",
               "EditorCaption": ""
             }
           ]
