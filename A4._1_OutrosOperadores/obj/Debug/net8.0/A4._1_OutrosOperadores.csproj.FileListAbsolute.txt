@@ -1,0 +1,15 @@
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\bin\Debug\net8.0\A4._1_OutrosOperadores.exe
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\bin\Debug\net8.0\A4._1_OutrosOperadores.deps.json
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\bin\Debug\net8.0\A4._1_OutrosOperadores.runtimeconfig.json
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\bin\Debug\net8.0\A4._1_OutrosOperadores.dll
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\bin\Debug\net8.0\A4._1_OutrosOperadores.pdb
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\obj\Debug\net8.0\A4._1_OutrosOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\obj\Debug\net8.0\A4._1_OutrosOperadores.AssemblyInfoInputs.cache
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\obj\Debug\net8.0\A4._1_OutrosOperadores.AssemblyInfo.cs
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\obj\Debug\net8.0\A4._1_OutrosOperadores.csproj.CoreCompileInputs.cache
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\obj\Debug\net8.0\A4._1_OutrosOperadores.sourcelink.json
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\obj\Debug\net8.0\A4._1_OutrosOperadores.dll
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\obj\Debug\net8.0\refint\A4._1_OutrosOperadores.dll
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\obj\Debug\net8.0\A4._1_OutrosOperadores.pdb
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\obj\Debug\net8.0\A4._1_OutrosOperadores.genruntimeconfig.cache
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections2\A4._1_OutrosOperadores\obj\Debug\net8.0\ref\A4._1_OutrosOperadores.dll

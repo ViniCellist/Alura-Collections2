@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A2._1_ArraysMultidimensiona
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A2._2_JahhedArrays", "..\A2._2_JahhedArrays\A2._2_JahhedArrays.csproj", "{07DB2333-1347-4775-9326-C27A6E12E5E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A3._1_ConsultandoCollections", "..\A3._1_ConsultandoCollections\A3._1_ConsultandoCollections.csproj", "{5CE291D8-D5B5-4493-832C-7432CA9ECCD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A3._1_ConsultandoCollections", "..\A3._1_ConsultandoCollections\A3._1_ConsultandoCollections.csproj", "{5CE291D8-D5B5-4493-832C-7432CA9ECCD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A4._1_OutrosOperadores", "..\A4._1_OutrosOperadores\A4._1_OutrosOperadores.csproj", "{36C4955B-B857-4DC2-86F2-8312D91EBA47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{5CE291D8-D5B5-4493-832C-7432CA9ECCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CE291D8-D5B5-4493-832C-7432CA9ECCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CE291D8-D5B5-4493-832C-7432CA9ECCD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C4955B-B857-4DC2-86F2-8312D91EBA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C4955B-B857-4DC2-86F2-8312D91EBA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C4955B-B857-4DC2-86F2-8312D91EBA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C4955B-B857-4DC2-86F2-8312D91EBA47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
